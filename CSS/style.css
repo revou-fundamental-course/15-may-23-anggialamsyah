@@ -1,0 +1,53 @@
+body {
+    background-color: #8080804d;
+}
+
+header {
+    background: #339b9e;
+    text-align: center;
+    padding: 30px 30px;
+}
+
+.example-square {
+    border: 5px solid blue;
+    width: 100px;
+    height: 100px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.result-luas {
+    visibility: hidden;
+}
+
+.title {
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+
+.subtitle {
+    color: rgba(211, 211, 211, 0.826);
+    font-size: small;
+}
+
+.card {
+    background: white;
+}
+
+.figure {
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
